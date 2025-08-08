@@ -19,4 +19,4 @@ It ensures **data integrity** through the use of **primary keys, foreign keys, u
 ## 🚀 How to Run / Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/clinic-booking-system.git
+   git clone https://github.com/NazarineWasonga/clinic-booking-system.git
